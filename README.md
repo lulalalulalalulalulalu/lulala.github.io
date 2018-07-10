@@ -1,4 +1,4 @@
-## 欢迎来到lulala的个人博客
+## lulala的个人博客
  - 这个博客主要是用来记录学习的笔记和个人感受（？）的
 
 -----------------------------------------------------------------------------------------------------------
@@ -7,7 +7,7 @@
 
 
 ### Node.js
- - [Restful API的理解](https://github.com/lulalalulalalulalulalu/lulala.github.io/personalblog/learn/restful)
+ - [Restful API的理解](https://lulalalulalalulalulalu.github.io/personalblog/learn/restful)
 
 
 
