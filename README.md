@@ -1,29 +1,42 @@
-## Welcome to GitHub Pages
+## 欢迎来到lulala的个人博客
+ - 这个博客主要是用来记录学习的笔记和个人感受（？）的
 
-You can use the [editor on GitHub](https://github.com/lulalalulalalulalulalu/lulala.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-----------------------------------------------------------------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 学习笔记
 
-### Markdown
+-----------------------------------------------------------------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Node.js
+ - [Restful API的理解](https://github.com/lulalalulalalulalulalu/lulala.github.io/personalblog/restful)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+-----------------------------------------------------------------------------------------------------------
 
-1. Numbered
-2. List
+### JavaScript
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+-----------------------------------------------------------------------------------------------------------
+### git
+
+
+
+-----------------------------------------------------------------------------------------------------------
+### MongoDB
+
+
+-----------------------------------------------------------------------------------------------------------
+### Redis
+
+-----------------------------------------------------------------------------------------------------------
+### ...
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
