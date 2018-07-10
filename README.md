@@ -5,10 +5,9 @@
 
 ## 学习笔记
 
------------------------------------------------------------------------------------------------------------
 
 ### Node.js
- - [Restful API的理解](https://github.com/lulalalulalalulalulalu/lulala.github.io/personalblog/restful)
+ - [Restful API的理解](https://github.com/lulalalulalalulalulalu/lulala.github.io/personalblog/learn/restful)
 
 
 
@@ -31,15 +30,12 @@
 ### Redis
 
 -----------------------------------------------------------------------------------------------------------
-### ...
-
+### 其他
 
 
 -----------------------------------------------------------------------------------------------------------
 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
